@@ -23,21 +23,21 @@
 
         <ImageView
             android:id="@+id/logo"
-            android:layout_width="72dp"
-            android:layout_height="72dp"
+            android:layout_width="140dp"
+            android:layout_height="38dp"
             android:layout_gravity="center"
-            android:src="@drawable/autojs_material">
+            android:src="@drawable/logo">
 
         </ImageView>
 
-        <ImageView
-            android:layout_width="100dp"
-            android:layout_height="32dp"
-            android:layout_gravity="center"
-            android:layout_marginLeft="-4dp"
-            android:src="@drawable/autojs">
+<!--        <ImageView-->
+<!--            android:layout_width="100dp"-->
+<!--            android:layout_height="32dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:layout_marginLeft="-4dp"-->
+<!--            android:src="@drawable/autojs">-->
 
-        </ImageView>
+<!--        </ImageView>-->
     </LinearLayout>
 
 </LinearLayout>

@@ -30,7 +30,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:name=".App"
         android:allowBackup="false"
-        android:icon="@drawable/autojs_material"
+        android:icon="@drawable/simpo"
         android:label="@string/app_name"
         android:largeHeap="true"
         android:supportsRtl="true"
